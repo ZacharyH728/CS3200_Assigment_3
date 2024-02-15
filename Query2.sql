@@ -1,0 +1,10 @@
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director1', 1);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director2', 2);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director3', 3);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director4', 4);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director5', 5);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director6', 6);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director7', 7);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director8', 8);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director9', 9);
+INSERT INTO Music_Video(videoDirector, trackID) VALUES ('Director10', 10);
